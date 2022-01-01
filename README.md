@@ -1,5 +1,7 @@
 # steering-control-design-for-self-driving-car
 # Introduction
+here the project is based on matlab simulink where we will get to know about controlling
+the steering and their wave form and so on it is mainly on discrete time (LQR).
 Recently, there have been significant improvements in vehicle technologies. Along with a
 development, various researches are still in progress to overcome existing obstacles.
 Autonomous vehicles are being tested under the real road conditions, and similar ongoing
