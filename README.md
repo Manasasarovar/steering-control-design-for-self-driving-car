@@ -1,5 +1,14 @@
 # steering-control-design-for-self-driving-car
-A discrete time Linear Quadratic Regulator (LQR) for a self-driving car steering system
+# Introduction
+Recently, there have been significant improvements in vehicle technologies. Along with a
+development, various researches are still in progress to overcome existing obstacles.
+Autonomous vehicles are being tested under the real road conditions, and similar ongoing
+challenges such as DARPA [1] encourage development of advanced technologies. In detail,
+performing numerous experiments is crucial to adapt a new technology into the real world
+after buildup process. Throughout the field test, it can be analyzed to see the difference
+whether the method shows enhancement or not, compared to existing functions.
+
+# A discrete time Linear Quadratic Regulator (LQR) for a self-driving car steering system
 he following concepts central to control theory and controller design.
 
 1) PID Control
